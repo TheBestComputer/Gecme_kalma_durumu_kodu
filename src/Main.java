@@ -21,6 +21,7 @@ public class Main {
         System.out.print("Muzik Notunuz : ");
         muzik = scanner.nextInt();
         
+        
         double notOrtalamasi = (mat + fizik + kimya + turkce + tarih + muzik) / 6.0;
         
         System.out.println("Ortalamaniz : " + notOrtalamasi);
