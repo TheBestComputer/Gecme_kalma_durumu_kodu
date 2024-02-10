@@ -28,5 +28,6 @@ public class Main {
         String gecmeDurumu = notOrtalamasi < 60 ? "Kaldi" : "Gecti";
         System.out.println("Gecme Durumu : " + gecmeDurumu);
         
+        
     }
 }
